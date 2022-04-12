@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @corbinlazarone
-- 👀 I’m interested in ... Full-Stakc dev
+- 👀 I’m interested in ... Full-Stack devlopment
 - 🌱 I’m currently learning ... python and JS
 - I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... corbinlazarone1@gmail.com 
