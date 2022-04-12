@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corbinlazarone
-- 👀 I’m interested in ... Cyber security
-- 🌱 I’m currently learning ... C 
-- 💞️ I’m looking to collaborate on ... anything
+- 👀 I’m interested in ... Full-Stakc dev
+- 🌱 I’m currently learning ... python and JS
+- I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... corbinlazarone1@gmail.com 
 
 <!---
