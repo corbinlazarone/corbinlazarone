@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @corbinlazarone
-- 👀 I’m interested in ... Software Engineering 
-- 🌱 I’m currently learning ... python and Java
-- I’m looking to collaborate on ... Java projects
-- 📫 How to reach me ... corbinlazarone1@gmail.com 
+Hi there 👋
 
-<!---
-corbinlazarone/corbinlazarone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Corbin and I'm a computer science student. Here's some info about me!
+
+⚡️ Work experience:
+  - Software Engineer intern at Chevron [Houston TX. Summer 24]
+  - Software Engineer intern at BBP [Baton Rouge LA. [Dec 22 - May 24]
+
+🌱 Interests:
+  - Building Products
+  - Rock Climbing
+  - Running
