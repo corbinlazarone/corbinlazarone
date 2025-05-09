@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Corbin and I'm a computer science student. Here's some info about me!
+I'm Corbin and I'm a Software Engineer Here's some info about me!
 
 ⚡️ Work experience:
   - Software Engineer intern at Chevron [Houston TX. Summer 24]
