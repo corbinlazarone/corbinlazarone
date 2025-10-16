@@ -1,12 +1,14 @@
-Hi there 👋
+Hi I'm Corbin 👋
 
-I'm Corbin and I'm a Software Engineer Here's some info about me!
+👾 About Me:
+  - I'm an Undergrad Student at LSU studying Computer Science
+  - My Instrests are in Systems, Architecture and Networking
 
 ⚡️ Work experience:
   - Software Engineer intern at Chevron [Houston TX. Summer 24]
   - Software Engineer intern at BBP [Baton Rouge LA. [Dec 22 - May 24]
 
 🌱 Interests:
-  - Building Products
+  - Building 
   - Rock Climbing
   - Running
