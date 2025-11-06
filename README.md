@@ -1,7 +1,7 @@
 Hi I'm Corbin 👋
 
 👾 About Me:
-  - I'm an Undergrad Student at LSUA studying Computer Science
+  - I'm an Undergrad Student at LSU studying Computer Science
   - My Instrests are in Systems Programming and Web Dev
 
 ⚡️ Work experience:
