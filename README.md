@@ -6,8 +6,8 @@ Hi I'm Corbin, a software engineer based in Louisiana 👋
 
 ⚡️ Work experience:
   - Software Engineer intern @ BBP [Baton Rouge, LA. [Aug 24 - Present]]
-  - Software Engineer intern at Chevron [Houston TX. Summer 24]
-  - Software Engineer intern at BBP [Baton Rouge LA. [Dec 22 - May 24]]
+  - Software Engineer intern @ Chevron [Houston TX. Summer 24]
+  - Software Engineer intern @ BBP [Baton Rouge LA. [Dec 22 - May 24]]
 
  💻 Tech Stack:
  - I mostly work in full stack code bases using:
