@@ -11,7 +11,7 @@ Hi I'm Corbin, a Software Engineer based in Louisiana 👋
 
  💻 Tech Stack:
  - I mostly work in full stack code bases using:
- - React, TypeScript, Tailwind, Go and C#
+ - TypeScript, Go and C#
 
 🌱 Interests:
   - Programming 
