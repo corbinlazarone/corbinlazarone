@@ -1,4 +1,4 @@
-Hi I'm Corbin, a software engineer based in Louisiana 👋
+Hi I'm Corbin, a Software Engineer based in Louisiana 👋
 
 👾 About Me:
   - I'm an Undergrad Student at LSU studying Computer Science
